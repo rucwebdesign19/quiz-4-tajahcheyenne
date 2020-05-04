@@ -25,10 +25,11 @@ html{
      align-items: center;
      margin: 0;
      padding: 0;
+     border-style: dashed;
      border-radius: 14px 14px 14px 14px;
    -moz-border-radius: 14px 14px 14px 14px;
    -webkit-border-radius: 14px 14px 14px 14px;
-    border: 7px solid #000000;
+    border: 3px solid #000000;
     background-color: tan;
  }
 
@@ -40,10 +41,11 @@ html{
      align-items: center;
      margin: 0;
      padding: 0;
+     border-style: dashed;
      border-radius: 14px 14px 14px 14px;
    -moz-border-radius: 14px 14px 14px 14px;
    -webkit-border-radius: 14px 14px 14px 14px;
-    border: 7px solid #000000;
+    border: 3px solid #000000;
     background-color: tan;
  }
  .zen-resources ul {
@@ -54,10 +56,11 @@ html{
      align-items: center;
      margin: 0;
      padding: 0;
+     border-style: dashed;
      border-radius: 14px 14px 14px 14px;
    -moz-border-radius: 14px 14px 14px 14px;
    -webkit-border-radius: 14px 14px 14px 14px;
-    border: 7px solid #000000;
+    border: 3px solid #000000;
     background-color: tan;
  }
 
