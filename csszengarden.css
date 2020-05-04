@@ -68,4 +68,5 @@ html{
 #zen-preamble{
   text-align: left;
   border-style: dashed;
+  padding: inherit;
 }
