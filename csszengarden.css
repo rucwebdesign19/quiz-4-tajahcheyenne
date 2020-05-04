@@ -46,3 +46,17 @@ html{
     border: 7px solid #000000;
     background-color: tan;
  }
+ .zen-resources ul {
+     list-style-type: none;
+     display: flex;
+     justify-content: space-between;
+     justify-content: space-around;
+     align-items: center;
+     margin: 0;
+     padding: 0;
+     border-radius: 14px 14px 14px 14px;
+   -moz-border-radius: 14px 14px 14px 14px;
+   -webkit-border-radius: 14px 14px 14px 14px;
+    border: 7px solid #000000;
+    background-color: tan;
+ }
